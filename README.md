@@ -17,7 +17,7 @@ MAXIMUM CONTROL, NO TRUST.
 
 ---
 
-What is RastaCapLinux even about?
+What is RastaCapLinux even about?<br>
 RastaCapLinux is a privacy and security focused operating system designed around the assumption that every layer of the modern computing stack is hostie.
 
 - Applications are not **trusted**.
