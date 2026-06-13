@@ -1,2 +1,3 @@
 # RastaHatLinux
-My personal OS based on Security and Anonymously
+My personal __OS__ based on Security and Anonymously
+
