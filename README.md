@@ -23,7 +23,7 @@ RastaCapLinux is a privacy and security focused operating system designed around
 - Applications are not **trusted**.
 - Network are not **trusted**.
 - Hardware are not **trusted**.
-- Elektrisity are not **trusted**.
+- Electrisity are not **trusted**.
 
 Users are deserves to verify everething.
 
