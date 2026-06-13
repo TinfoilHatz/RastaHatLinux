@@ -1,7 +1,8 @@
 # RastaCapLinux
 This is an experimental Operating System build from scratch.
-![RastaCapLinux](RastaCapLinuxLogo.png)
-
+<p alighn="center">
+  <img src="RastaCapLinuxLogo.png" width="300">
+</p>
 ---
 
 - **NOT BASED ON ARCH**
